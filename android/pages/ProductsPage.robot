@@ -208,5 +208,3 @@ Cadastro de varios produtos
     Quando selecionar a opção "Novo"
     E preencher o formulário de cadastro de produto    ${codigo}    ${descricao}    ${unid}    ${quant}    ${val}
     Então o produto é cadastrado com sucesso
-    Close Application
-    Abrir Aplicativo
